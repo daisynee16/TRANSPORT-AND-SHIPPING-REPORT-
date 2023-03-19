@@ -19,6 +19,7 @@ Từ đó trả lời được câu hỏi (2) nêu ra ở phần 1
 o	Origin and Destination: Thống kê số lượng đơn hàng theo điểm khởi hành (Origin), điểm kết thúc (Destination) và Transportation Modes.
 Từ đó trả lời được câu hỏi (3) nêu ra ở phần 1
 o	Shipment Information: Thông tin chi tiết về các đơn hàng phục vụ mục đích tra cứu
+...
 > Findings
 -	Vận tải đường biển (SEA) đem lại lợi nhuận cao nhất 
 -	MAERSK là hãng vận chuyển đem lại lợi nhuận lớn nhất
@@ -27,5 +28,5 @@ o	Shipment Information: Thông tin chi tiết về các đơn hàng phục vụ 
 -	Chi nhánh Birmingham là chi nhánh đem lại thu nhập lớn nhất
 -	Phòng ban FIS là phòng ban đem lại thu nhập lớn nhất
 -	Lộ trình từ cảng London Heathrow đến cảng Jebel Ali theo đường biển (SEA) có nhiều chuyến hàng nhất
-4.	Impacts
+> Impacts
 Từ những findings trên, báo cáo sẽ giúp cho doanh nghiệp nhìn nhận được tình hình hiện tại, xác định được những nhân tố đem lại lợi nhuận lớn, từ đó tập trung đẩy mạnh phát triển những nhân tố đó nhằm tăng số lượng đơn hàng, lợi nhuận cho doanh nghiệp.
