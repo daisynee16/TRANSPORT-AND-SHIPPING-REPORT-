@@ -1,5 +1,5 @@
 # TRANSPORT-AND-SHIPPING-REPORT-
-
+Link report: https://app.powerbi.com/reportEmbed?reportId=8dc48af5-fe6b-4678-ad02-75ec54e054be&autoAuth=true&ctid=588b13a3-653b-4cf7-8ac0-59847eb2dc88
 > Challenges
 Đây là bộ dữ liệu của một doanh nghiệp vận chuyển hàng hóa (forwarder) về tất cả các thông tin có liên quan của các đơn hàng vận chuyển (shipment). 
 Bộ dữ liệu ban đầu dưới dạng file Excel với số lượng cột rất lớn (121 cột) và dữ liệu không tối ưu cho việc làm báo cáo Power BI. Dữ liệu bị blank cũng rất nhiều, điều này khiến cho quá trình làm sạch dữ liệu (cleaning data), xây dựng mô hình (data modelling) cũng như trực quan hóa (visualizations) trở nên không hề đơn giản. 
